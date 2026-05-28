@@ -1,6 +1,6 @@
 # Hi, I'm Manuel Santiago Martínez Hurtado
 
-Mechatronics and robotics enthusiast focused on autonomous systems, robotic arms, physics-informed neural networks, cloud applications, and applied AI.
+Robotics and AI enthusiast focused on autonomous systems, robotic arms, physics-informed neural networks, cloud applications, and applied AI.
 
 I enjoy building projects that connect software, hardware, simulation, and real-world engineering problems.
 
@@ -18,10 +18,10 @@ I enjoy building projects that connect software, hardware, simulation, and real-
 ## Tech Stack
 
 **Languages:**  
-Python · JavaScript · C++ · MATLAB
+Python · C · C++ · SQL
 
 **Robotics & AI:**  
-ROS 2 · MoveIt 2 · Computer Vision · TensorFlow · Keras · NumPy · Matplotlib
+ROS 2 · MoveIt 2 · Computer Vision · TensorFlow · Keras · NumPy · Matplotlib · Isaac-Sim
 
 **Cloud & Web:**  
 AWS Lambda · API Gateway · DynamoDB · Cognito · S3 · React
